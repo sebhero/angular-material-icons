@@ -1,5 +1,7 @@
-angular-material-icons
+Fork of angular-material-icons
 ======================
+
+this is a fork of the angular-material-icons; so you can use it in Angular-Meteor.
 
 AngularJS directive to use Material Design icons with custom fill-color and size.
 
